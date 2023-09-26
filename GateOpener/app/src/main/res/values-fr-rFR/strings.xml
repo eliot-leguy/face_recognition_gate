@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GateOpener</string>
+    <string name="button_addUser">Ajouter un utilisateur</string>
+    <string name="button_viewUsers">Voir les utilisateurs</string>
+    <string name="editText_userName">Nom du nouvel utilisateur</string>
+    <string name="button_takePicture">Prendre une photo du nouvel utilisateur</string>
+    <string name="button_delete">Supprimer</string>
+    <string name="button_cancel">Annuler</string>
+    <string name="dialogMessage1">Supprimer cet utilisateur ?</string>
+    <string name="noUsers">Pas d\'utilisateurs créés</string>
+    <string name="userDeleted">Utilisateur supprimé</string>
+    <string name="userNotDeleted">Une erreur c\'est produite, veuillez réessayer</string>
+    <string name="button_save">Sauvegarder</string>
+    <string name="saved">Sauvegardé !</string>
+    <string name="userName_Hint">Nom d\'utilisateur</string>
+    <string name="dialogMessage2">Votre appareil ne suporte pas le bluetooth, vous ne pouvez donc pas utiliser cette application.</string>
+    <string name="button_closeApp">Fermer l\'application</string>
+    <string name="dialogTitle1">Permission Requise</string>
+    <string name="dialogMessage3">Cette autorisation est nécessaire pour envoyer des données au GateOpener.</string>
+    <string name="button_allow">Autoriser</string>
+    <string name="toast1">Permission accordée</string>
+    <string name="toast2">Permission non accodée</string>
+    <string name="dialogMessage4">Vous devez activer le Bluetooth pour transférer des données au GateOpener</string>
+    <string name="dialogTitle2">Activer le Bluetooth ?</string>
+    <string name="button_upBluetooth">Activer le Bluetooth</string>
+    <string name="dialogMessage5">Si vous n\'êtes pas connecté au GateOpener, vous ne pourrez pas créer de nouveaux utilisateurs ou synchroniser les utilisateurs déjà créés.</string>
+    <string name="dialogTitle3">Bluetooth Éteint</string>
+    <string name="button_understand">Je comprends</string>
+    <string name="button_refreshBluetooth">Actualiser le bluetooth</string>
+    <string name="button_bluetooth">Connexion Bluetooth</string>
+    <string name="dialogMessage6">Cette autorisation est nécessaire pour se connecter au GateOpener.</string>
+    <string name="dialogTitle4">GateOpener introuvable</string>
+    <string name="dialogMessage7">Le GateOpener est introuvable. Vous pouvez essayer de vous en rapprocher, et recommencer.</string>
+    <string name="toast3">Erreur de connexion, veuillez réessayer</string>
+    <string name="button_synch">Synchroniser les utilisateurs</string>
+    <string name="textView1">Synchronisation des utilisateurs. Utilisateur :</string>
+    <string name="textView2">Utilisateur</string>
+    <string name="Error_while_synching">Erreur de synchornisation</string>
+    <string name="Error_while_synching_txt">Une erreur est survenue pendant la synchornisation, veuillez réessayer</string>
+    <string name="Synchronisation_Successful">Synchronisation Réussie !</string>
+    <string name="Synchronisation_Successful_txt">Les utilisateurs ont été synchronisés avec le GateOpener.</string>
+</resources>
